@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://meghamariamkm.github.io/meghamarimkm.github.io/sitemap.xml
+Sitemap: https://meghamariamkm.github.io//sitemap.xml
