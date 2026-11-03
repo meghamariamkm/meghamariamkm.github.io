@@ -78,6 +78,7 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
     - [All Contributors](#all-contributors)
   - [Star History](#star-history)
   - [License](#license)
+  - [Acknowledgements](#acknowledgements)
 
 <!--te-->
 
