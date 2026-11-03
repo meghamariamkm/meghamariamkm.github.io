@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-07-12 12:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Successfully completed my M.S. by Research in Computer Science at IIIT Hyderabad. Convocation: 12 July 2026 :sparkles: .
