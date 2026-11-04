@@ -6,7 +6,7 @@ subtitle: Research Intern
 
 profile:
   align: left
-  image: prof_pic_mine.jpeg
+  image: prof_pic_mine.png
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
